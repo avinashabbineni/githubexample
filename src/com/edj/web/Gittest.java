@@ -6,6 +6,7 @@ public class Gittest {
 		// TODO Auto-generated method stub
         System.out.println("I am in git app");
         System.out.println("test1");
+        System.out.println("test2");
 	}
 
 }
